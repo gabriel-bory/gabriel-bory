@@ -111,4 +111,6 @@ The project includes:
 
 ## Contact
 
-For professional contact, please use the public contact options available through my GitHub profile.
+- LinkedIn: https://www.linkedin.com/in/gabriel-bory-prevez
+- GitHub: https://github.com/gabriel-bory
+- Featured project: https://gabriel-bory.github.io/henry-bory-prevez-portfolio/
