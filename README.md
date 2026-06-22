@@ -77,30 +77,31 @@ My current work connects frontend development, backend foundations and documenta
 
 <div align="center">
 
-<strong>Frontend</strong><br />
-
-<img src="https://img.shields.io/badge/Angular-111827?style=flat-square&amp;logo=angular&amp;logoColor=DD0031&amp;labelColor=F9FAFB" alt="Angular" />
-<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6&amp;labelColor=F9FAFB" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Astro-111827?style=flat-square&amp;logo=astro&amp;logoColor=FF5D01&amp;labelColor=F9FAFB" alt="Astro" />
-<img src="https://img.shields.io/badge/SCSS-111827?style=flat-square&amp;logo=sass&amp;logoColor=CC6699&amp;labelColor=F9FAFB" alt="SCSS" />
-
-<br /><br />
-
-<strong>Backend and data</strong><br />
-
-<img src="https://img.shields.io/badge/NestJS-111827?style=flat-square&amp;logo=nestjs&amp;logoColor=E0234E&amp;labelColor=F9FAFB" alt="NestJS" />
-<img src="https://img.shields.io/badge/Java-111827?style=flat-square&amp;logo=openjdk&amp;logoColor=F97316&amp;labelColor=F9FAFB" alt="Java" />
-<img src="https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&amp;logo=springboot&amp;logoColor=6DB33F&amp;labelColor=F9FAFB" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1&amp;labelColor=F9FAFB" alt="PostgreSQL" />
-
-<br /><br />
-
-<strong>Tools and workflow</strong><br />
-
-<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&amp;logo=docker&amp;logoColor=2496ED&amp;labelColor=F9FAFB" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-111827?style=flat-square&amp;logo=git&amp;logoColor=F05032&amp;labelColor=F9FAFB" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&amp;logo=github&amp;logoColor=181717&amp;labelColor=F9FAFB" alt="GitHub" />
-<img src="https://img.shields.io/badge/Markdown-111827?style=flat-square&amp;logo=markdown&amp;logoColor=000000&amp;labelColor=F9FAFB" alt="Markdown" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Frontend</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=angular,ts,astro,sass&amp;theme=dark" alt="Frontend stack" />
+      <br /><br />
+      <sub>Angular · TypeScript · Astro · SCSS</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend and data</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=nestjs,java,spring,postgres&amp;theme=dark" alt="Backend and data stack" />
+      <br /><br />
+      <sub>NestJS · Java · Spring Boot · PostgreSQL</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Tools and workflow</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,md&amp;theme=dark" alt="Tools and workflow stack" />
+      <br /><br />
+      <sub>Docker · Git · GitHub · Markdown</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
