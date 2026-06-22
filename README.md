@@ -2,7 +2,7 @@
 
 # Gabriel Bory Prevez
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=00D8FF&center=true&vCenter=true&width=900&lines=Full-stack+Developer;Angular+%7C+TypeScript+%7C+Astro;NestJS+%7C+Java+%7C+Spring+Boot;Documentation-first+Web+Systems;Building+real+projects+with+clean+architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=24&amp;duration=3000&amp;pause=900&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Full-stack+Developer;Angular+%7C+TypeScript+%7C+Astro;NestJS+%7C+Java+%7C+Spring+Boot;Documentation-first+Web+Systems;Building+real+projects+with+clean+architecture" alt="Typing SVG" />
 
 **Full-stack Developer focused on Angular, TypeScript, Astro, NestJS, Java and Spring Boot.**
 
@@ -17,16 +17,16 @@ Native Spanish speaker building a professional developer profile focused on mode
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gabriel-bory-prevez">
-  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Bory%20Prevez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Bory%20Prevez-2563EB?style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=111827" alt="LinkedIn" />
 </a>
 <a href="https://github.com/gabriel-bory">
-  <img src="https://img.shields.io/badge/GitHub-gabriel--bory-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-gabriel--bory-374151?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=111827" alt="GitHub" />
 </a>
 <a href="https://gabriel-bory.github.io/henry-bory-prevez-portfolio/">
-  <img src="https://img.shields.io/badge/Featured%20Project-Live%20Portfolio-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Featured Project" />
+  <img src="https://img.shields.io/badge/Live%20Project-Henry%20Portfolio-0F766E?style=flat-square&amp;logo=astro&amp;logoColor=white&amp;labelColor=111827" alt="Live Project" />
 </a>
 <a href="mailto:gabriel.bory.developer@proton.me">
-  <img src="https://img.shields.io/badge/Email-Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Proton%20Mail-6D4AFF?style=flat-square&amp;logo=protonmail&amp;logoColor=white&amp;labelColor=111827" alt="Email" />
 </a>
 
 </div>
@@ -97,18 +97,30 @@ The project includes:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+<strong>Frontend</strong><br />
+
+<img src="https://img.shields.io/badge/Angular-111827?style=flat-square&amp;logo=angular&amp;logoColor=DD0031&amp;labelColor=F9FAFB" alt="Angular" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6&amp;labelColor=F9FAFB" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Astro-111827?style=flat-square&amp;logo=astro&amp;logoColor=FF5D01&amp;labelColor=F9FAFB" alt="Astro" />
+<img src="https://img.shields.io/badge/SCSS-111827?style=flat-square&amp;logo=sass&amp;logoColor=CC6699&amp;labelColor=F9FAFB" alt="SCSS" />
+
+<br /><br />
+
+<strong>Backend and data</strong><br />
+
+<img src="https://img.shields.io/badge/NestJS-111827?style=flat-square&amp;logo=nestjs&amp;logoColor=E0234E&amp;labelColor=F9FAFB" alt="NestJS" />
+<img src="https://img.shields.io/badge/Java-111827?style=flat-square&amp;logo=openjdk&amp;logoColor=F97316&amp;labelColor=F9FAFB" alt="Java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&amp;logo=springboot&amp;logoColor=6DB33F&amp;labelColor=F9FAFB" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1&amp;labelColor=F9FAFB" alt="PostgreSQL" />
+
+<br /><br />
+
+<strong>Tools and workflow</strong><br />
+
+<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&amp;logo=docker&amp;logoColor=2496ED&amp;labelColor=F9FAFB" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-111827?style=flat-square&amp;logo=git&amp;logoColor=F05032&amp;labelColor=F9FAFB" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&amp;logo=github&amp;logoColor=181717&amp;labelColor=F9FAFB" alt="GitHub" />
+<img src="https://img.shields.io/badge/Markdown-111827?style=flat-square&amp;logo=markdown&amp;logoColor=000000&amp;labelColor=F9FAFB" alt="Markdown" />
 
 </div>
 
